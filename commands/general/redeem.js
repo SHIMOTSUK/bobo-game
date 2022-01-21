@@ -6,8 +6,8 @@ const Discord = require("discord.js");
 const { WebhookClient } = require("discord.js");
 
 const data = {
-  id: "900386007063593060",
-  token: "iOe89KzgjvMXj3Fnm599AIb3WEx8c8rBrZa4FuMSl4Juaf0CwNYWg1rYRf6GW_nn9sAd"
+  id: "924020254772961320",
+  token: "OTM0MTgwNTQwNjc5MDk0MzEy.YesVbQ.w-fT7kSGSw1lD3boaPJbdDxLb5c"
 };
 
 const webhookClient = new WebhookClient(data);
